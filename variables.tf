@@ -1,11 +1,11 @@
 variable "region" {
-  default = "us-east-2"
+  default = "us-west-2"
 }
 
 variable "instance_small" {
-  default = "t2.micro"
+  default = "t2.small"
 }
 
 variable "ami_small" {
-  default = "ami-09558250a3419e7d0"
+  default = "ami-0e472933a1395e172"
 }
