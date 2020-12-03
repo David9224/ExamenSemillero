@@ -7,5 +7,5 @@ variable "instance_small" {
 }
 
 variable "ami_small" {
-  default = "ami-0e472933a1395e172"
+  default = "ami-07dd19a7900a1f049"
 }
