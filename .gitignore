@@ -1,2 +1,6 @@
 .terraform/
 .idea/
+
+*.log
+
+*.tfstate.*
